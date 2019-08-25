@@ -1,0 +1,111 @@
+# CV-2019
+CV for StartNG 
+
+
+
+ Nseari / CV-2
+  
+<!DOCTYPE html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+<html>
+<head>
+<title>Nseari Resume</title>
+</head>
+
+<body>
+
+    <h1><center>Nseari Okey Ndifon</center></h1> 
+
+    <p><center>
+    <sub>Central Business District, Abuja, FCT
+    <p>(+234)09062379520<p>
+    <p><a href="https://gmail.com">onsearinahud@gmail.com </sub></a></p>
+    
+    <img src=https://res.cloudinary.com/desrdrire/image/upload/v1566557085/Start%20NG/passport2019_hsrylp.jpg alt="Nseari's Passport" style="width:100px; height:138.203;">
+    </center>
+    </p>
+        <h3> Data Visualization Developer</h3>
+        
+        <p> Data Visualization developer, responsible for the expansion of rich interactive graphics, data visualizations and charting, designing, developing and supporting interactive data visualizations used across the enterprise. Using my artistic mind to conceptualize, design, and develop reusable graphics/data visualizations as well as having a very strong technical knowledge for implementing these visualizations using the very latest technologies.</p>
+        
+        <h3>EXPERIENCE</h3>
+        <h4>National Bureau of Statistics, Abuja — Technical Support Personnel</h5>
+        <sub>June 2017 - PRESENT</sub>
+        <ul>
+        <li>Web Management</li>
+        <li>Data Analysis</li>
+        <li>Data Visualization Development</li> 
+        </ul>
+
+        <h4>Molato’s, Ghana — Digital Marketer</h4>
+        <sub>November 2016 - February 2017</sub>
+        <ul>
+        <li>Online sale of fashion wears</li>
+        <li>Customer online support</li></li>
+        <li>Uploading of stock to online platforms</li>
+        </ul>
+
+        <h4>All Nations University College, Ghana — Student Recruitment Representive  </h4>
+        <sub>August 2012- November 2016</sub>
+        <p>Helped in the recruitment of prospective students from Nigeria to study Electronics and Communications Engineering, Biomedical Engineering, Computer Engineering, Computer Science and Business Management at  All Nations University College, Ghana.</p>
+        
+        <h3>EDUCATION</h3>
+        <h4>All Nations University College, Ghana — Electronics and Communications Engineering</h4>
+        <sub>August  2012 - November 2016</sub>
+        <p>Core Modules: Wireless Communication, Communication Switching Techniques, Information Theory, VLSI Design, Communication Protocols, Antenna and Wave Propagation, Microwave and Optical Communication, Satellite Communications and Broadcasting, Research Methodology, Embedded Systems and Digital Image Processing.</p>
+        
+        <h4>University of Calabar International Secondary School, Calabar — WASSCE</h4>
+        <sub>September 2003 - June 2009</sub>
+        <p>Credits Obtained: Mathematics, English, Physics, Biology, Chemistry, Technical Drawing,Geography, Visual Arts.</p>
+        
+        
+        <h3>PROJECT</h3>  
+        <h4>Prototype Ghana Census Management System </h4>
+        <sub>November 2015</sub>
+        
+        <p>Designed and implemented a prototype census management using Visual Basic 6.0</p>
+        
+        <h4>Search Engine Optimization of the National Bureau of Statistics Website</h4>
+        <sub>April 2019</sub>
+        <p>Collaborated with the web manger of the bureau to optimize the search engine for the National Bureau of Statistics  officail using relevant keywords and phrases after a extensice review of all the published reports on the E-Library section of the website.</p>
+    
+       
+        
+        <h3>SKILLS</h3>
+
+            <ul>
+                <li>Data Analysis using Stata</li>
+                <li>Data Visualization using D3.js</li>
+                <li>Graphic design using Adobe</li>
+                <li>Programming-JavaScript, Node.js, Python, MongoDB</li>
+                <li>Excellent Communicator</li>
+            </ul>
+        
+        <h3>AWARDS</h3>
+        <p>— Best in Fine Arts, Junior Secondary - University of Calabar International Secondary School.</p>
+        
+        <h3> LANGUAGES </h3>
+        <p>— English, French, Efik, Ejagham, Twi.</P>
+        
+        
+        <table>
+        <th><h3>REFEREES</h3></th> 
+        <td>  — Available on Request</td>
+        </table>
+        <!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">The future is digital! A million Cheers to <a href="https://twitter.com/theflutterwave?ref_src=twsrc%5Etfw">@theflutterwave</a> for sponsoring the <a href="https://twitter.com/startdotng?ref_src=twsrc%5Etfw">@startdotng</a> <a href="https://twitter.com/hnginternship?ref_src=twsrc%5Etfw">@hnginternship</a>. <a href="https://twitter.com/hashtag/futureofwork?src=hash&amp;ref_src=twsrc%5Etfw">#futureofwork</a></p>&mdash; Ncode 🌐🕊️ (@NseariNdifon) <a href="https://twitter.com/NseariNdifon/status/1164425732606615552?ref_src=twsrc%5Etfw">August 22, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
+                
+        
+</body>
+</html>
+
+Twitter URL:
+
+https://twitter.com/NseariNdifon/status/1164425732606615552?s=20
+
+What I have learnt so far lucid link:
+
+https://lucid.blog/onsearinahud/post/1566455194
+© 2019 GitHub, Inc.
